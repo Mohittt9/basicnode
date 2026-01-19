@@ -1,4 +1,4 @@
-/* Reset default styles */
+
 * {
   margin: 0;
   padding: 0;
@@ -42,12 +42,12 @@ nav ul li a:hover {
   color: #000;
 }
 
-/* Active link (optional) */
+
 nav ul li a.active {
   background-color: #ffffff;
   color: #222;
 }
-/* About page container */
+
 div {
   max-width: 800px;
   margin: 80px auto;
@@ -80,3 +80,4 @@ div p {
     gap: 15px;
   }
 }
+
