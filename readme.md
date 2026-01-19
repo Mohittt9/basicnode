@@ -17,4 +17,7 @@
    - Contact: `/contact`
 ## Technologies Used
 - Node.js
+
 - ejs
+
+<img width="432" height="161" alt="Screenshot 2026-01-19 121706" src="https://github.com/user-attachments/assets/43ea9625-b8ae-4d86-b833-160c78c5b466" />
